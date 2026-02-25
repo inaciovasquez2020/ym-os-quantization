@@ -1,17 +1,10 @@
-# Yang–Mills OS Quantization
+# Yang–Mills OS Quantization Interface
 
-This repository explores non-perturbative Osterwalder–Schrader positivity
-for Yang–Mills theory under the assumption of verified uniform coercivity.
+This repository isolates the final obstruction in the Yang–Mills mass gap problem:
+construction of an Osterwalder–Schrader positive Euclidean measure.
 
-Assumed inputs:
-- Uniform Jacobi coercivity (verified elsewhere).
-- Semiclassical stability.
+All classical and semiclassical analytic inputs
+(coercivity, Kato/FLIC control, HS-gap refutation)
+are assumed verified upstream.
 
-Non-goals:
-- No classical analysis.
-- No HS-gap arguments.
-- No claims of mass gap.
-
-Status:
-- Exploratory.
-- No verified results at present.
+Status: OPEN — external, non-perturbative obstruction.
